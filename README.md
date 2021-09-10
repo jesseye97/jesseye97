@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jesseye97
+- 👋 Hi, I’m Jesse
 - 👀 I’m interested in UX Designe
 - 🌈 My work https://www.jesseye.site/
 - 📫 How to reach me w.jesse@gmail.com
