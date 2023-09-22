@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse
 - 👀 I’m interested in UX Designe
-- 🌈 My work https://www.jesse-ye.site/
+- 🌈 My work [https://www.jesse-ye.site/](https://yedesign.site/)
 - 📫 How to reach me w.jesse@gmail.com
 
 <!---
